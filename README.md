@@ -2,6 +2,8 @@
 
 This Java-based ATM Simulator project is a console application that emulates the functionality of an Automated Teller Machine (ATM). The program allows users to perform basic banking operations, including checking their balance, making withdrawals, and depositing funds.
 
+![Image](preview.png)
+
 ## ⭐️ Key Features
 
 - 👤 Account Management: Users can create multiple accounts, each with a unique account number and PIN for secure access.
