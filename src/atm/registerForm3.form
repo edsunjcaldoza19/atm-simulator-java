@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="41" green="2f" red="24" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="chkAgree" min="-2" max="-2" attributes="0"/>
+                      <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="btnProceed" min="-2" pref="180" max="-2" attributes="0"/>
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Component id="jButton3" min="-2" pref="180" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jScrollPane1" alignment="0" min="-2" pref="398" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="0" pref="34" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                  <Component id="jScrollPane1" min="-2" pref="374" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="chkAgree" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="btnProceed" alignment="3" pref="56" max="32767" attributes="0"/>
+                      <Component id="jButton3" alignment="3" pref="56" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="99" green="99" red="0" type="rgb"/>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jSeparator1" min="-2" pref="354" max="-2" attributes="0"/>
+                                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="58" max="-2" attributes="0"/>
+                              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="35" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jSeparator1" min="-2" pref="10" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="50" max="-2" attributes="0"/>
+                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Gothic" size="28" style="0"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="TERMS AND CONDITIONS"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel3">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/img/terms.jpg"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel2">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Century Gothic" size="11" style="0"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="PLEASE AGREE TO THE TERMS&#xa;AND CONDITIONS OF THIS &#xa;ATM SYSTEM"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JSeparator" name="jSeparator1">
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Trebuchet MS" size="14" style="0"/>
+                </Property>
+                <Property name="lineWrap" type="boolean" value="true"/>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="----------------------------------------------------------------------------&#xa;Please read these Terms and Conditions carefully and make sure that you understand them.&#xa;&#xa;1. DEFINITIONS In these Terms and Conditions, unless the context otherwise requires, the following expressions shall have the following meanings:- &#x201c;Account&#x201c; means any account held by the Customer with branches in Hong Kong of the Bank which the Bank has agreed, following an appropriate application by the Customer, shall be accessible by the use of the Card; &#x201c;ATM&#x201c; means any automatic teller machine in operation in the Network and such other Network as from time to time announced by the Bank; &#x201c;ATM Services&#x201c; means any one or more of the following services from time to time determined by the Bank and accessible by the use of a Card at or through an ATM:- (a) withdrawals of cash from an Account; (b) enquiries as to debit/credit balances on an Account; (c) transfers of available credit balances, or amounts available on agreed overdraft, between Accounts or to other accounts; (d) changes of the PIN relating to a Card; (e) such other services as the Bank may from time to time provide; &#x201c;Bank&#x201c; means Bank SinoPac, which expression shall include its successors and assigns; &#x201c;Business Day&#x201c; means any day on which the Bank is open for business in Hong Kong; &#x201c;Card&#x201c; means any card issued by the Bank at the request and in the name of the Customer for use in connection with ATM Services; &#x201c;Customer&#x201c; means any person who has agreed to these Terms and Conditions with the Bank; &#x201c;Hong Kong&#x201c; means the Hong Kong Special Administrative Region of the People s Republic of China; &#x201c;Network&#x201c; means any network from time to time designated by the Bank to provide ATM Services; &#x201c;PIN&#x201c; means any personal identification number(s) designated by the Bank and/or any personal identification number(s) selected by the Customer which allows the Customer access to ATM Services through the use of the Card; and &#x201c;Terms and Conditions&#x201c; means these ATM Terms and Conditions. 1.2 Unless the context otherwise requires: (a) words importing one gender include the other genders; (b) words importing the singular shall include the plural and vice versa; (c) references to Clauses are references to clauses in these Terms and Conditions; (d) references to documents (including these Terms and Conditions) include the same as from time to time amended, supplemented and substituted; (e) clause and other headings are for ease of reference only and shall not affect the interpretation of these Terms and Conditions; (f) the word &#x201c;person&#x201c; includes any individual, company, firm, partnership, joint venture, association, sole proprietorship or other incorporated or unincorporated entity and its legal representatives, executors, administrators, committee, receiver or other persons lawfully acting on behalf of such person; and (g) &#x201c;including&#x201c; and &#x201c;includes&#x201c; mean respectively &#x201c;including without limitation&#x201c; and &#x201c;includes without limitation&#x201c;. 2. ATM SERVICES 2.1 These Terms and Conditions shall govern the use of a Card and the provision of ATM Services. 2.2 In addition to these Terms and Conditions, the Bank s General Terms and Conditions for Accounts shall also apply to the use of Cards and the provision of ATM Services (including those provisions in the General Terms and Conditions for Accounts relating to examining statements of account and the Bank s set off rights). If there is any conflict between these Terms and Conditions and the General Terms and Conditions for Accounts, these Terms and Conditions shall prevail. 2.3 ATM Services shall only become available after the Bank has notified the Customer in writing of the Bank s acceptance of his application (including any PIN selected by the Customer and those Accounts in respect of which he wishes to carry out ATM transactions) for a Card. If the Customer wishes to terminate enrolment in ATM Services, he must do so by written notice to the Bank. Enrolment will terminate automatically if the Card giving access to ATM Services is cancelled. 2.4 The Bank may offer such facilities through ATM Services as it shall from time to time decide and may without prior notice at its discretion (i) revoke the right of the Customer to use ATM Services, (ii) refuse to act on any instruction given to it via an ATM or (iii) refuse to renew a Card. 2.5 The Card can be used at (a) any ATM installed by, belonging to, or designated by, the Bank and (b) any other terminals or devices used for effecting payment or transfer of funds by electronic or other means, including point of sale terminals from time to time nominated by the Bank. 2.6 No withdrawal or transfer of funds using ATM Services is permitted unless there are sufficient funds in the Account, unless the Bank otherwise agrees. If a withdrawal or transfer is made without sufficient funds or available credit in the Account to cover the relevant payment, the Customer shall repay to the Bank immediately on demand the amount overdrawn or transferred in excess of available funds or credit together with interest at the rate chargeable by the Bank from time to time on unarranged overdraft facilities with the Bank. The interest rate from time to time applicable to unauthorized overdraft facilities is specified in a schedule of charges and/or interest published by the Bank from time to time and will be made available to the Customer upon request. 2.7 The Bank shall be entitled from time to time to impose limits, whether in respect of amounts or otherwise, upon withdrawals, transfers or other transactions using Cards. 2.8 Notwithstanding that an instruction may be received by the Bank outside the normal banking hours on a Business Day and be carried out immediately, the relevant transaction effected pursuant to such instruction may be deemed to have taken effect on the next Business Day if the Bank so determines. 3. THE CARD 3.1 The Card is and shall at all times be the property of the Bank. The Customer shall surrender the Card to the Bank immediately upon demand irrespective of whether the Bank has given any prior notice or any reason therefor, or upon the cancellation or termination of the use of the Card for whatever reason. 3.2 The Card shall only be used by the Customer and is not transferable or allowed to lend or pledge to any third party. 4. RESPONSIBILITY FOR PROPER USE OF CARD AND PIN 4.1 The Customer is responsible for the proper use of the Card and the related PIN and shall take reasonable steps to keep the Card and PIN secure and confidential and shall not allow any unauthorized person to have access to the Card or PIN. 4.2 The Customer shall not use or allow the use of the Card for any illegal activity or any arrangement that is contrary or prohibited by law. 4.3 If the Card is lost or stolen or the PIN becomes known to any unauthorised person, the Customer shall immediately notify the Bank in writing or report such loss, theft or unauthorized disclosure to the Bank by calling the Bank s customer services hotline as notified by the Bank to the Customer from time to time. The Customer shall be fully responsible for all transactions involving the use of the Card whether or not authorized by the Customer prior to the Bank s actual receipt of such notice. 4.4 If a Card is lost or stolen, the Bank may, at its absolute discretion, issue a replacement Card at the request of the Customer on such terms and conditions as it deems fit. The Bank is entitled to charge a reasonable fee for replacing a Card or issuing a new PIN. If the Customer subsequently finds a Card previously reported lost, he shall not use such Card and shall return the same to the Bank as soon as reasonably practicable. 4.5 The ATM Card service within or outside Hong Kong are subject to the respectively daily transaction limits and the scope of service as determined by the Bank from time to time. 5. DEBITING THE ACCOUNT The Customer irrevocably authorizes the Bank to debit (without any prior notice to the Customer) from any Account the amount of any withdrawal, transfer and/or other transaction using a Card at any ATM whether or not made with his knowledge or authorization. 6. NO RIGHT TO CREDIT OR OVERDRAFT These Terms and Conditions do not entitle the Customer to any right of credit or overdraft. 7. LIABILITY OF CUSTOMERS 7.1 The Customer shall be liable in respect of all transactions using ATM Services, except (i) those arising from the misuse of the Card before receipt of the Card by the Customer, (ii) those occurring after the Bank has received adequate notice of the loss or theft of the Card or of a PIN becoming known to an unauthorised person, (iii) those effected resulting in direct loss to the Customer when faults have occurred in the relevant ATM, Network or other system used to provide ATM Services unless the fault was obvious or advised by a message or notice on display, and (iv) those effected by counterfeit or forged cards, provided that the Customer has acted in good faith. In the absence of manifest error, fraud, wilful default or gross negligence, the Bank s records of any ATM transaction or the records of the operator of any ATM within the Networks as the Bank from time to time designates shall be binding on the Customer."/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JCheckBox" name="chkAgree">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="41" green="2f" red="24" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Century Gothic" size="14" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="I Agree to the Terms and Conditions of Use"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="chkAgreeMouseClicked"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="chkAgreeActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnProceed">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="41" green="2f" red="24" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Century Gothic" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="PROCEED"/>
+            <Property name="enabled" type="boolean" value="false"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnProceedActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton3">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="41" green="2f" red="24" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Century Gothic" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="CANCEL"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
