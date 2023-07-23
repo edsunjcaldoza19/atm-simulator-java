@@ -13,11 +13,13 @@ import javax.swing.JOptionPane;
  */
 public class formulas extends msgs {
     msgs obj = new msgs();
+    // Withdraw Formula 
     public void withdraw(){
          global.balance[global.index] -= global.withdraw[global.index];
          global.totalwithdraw[global.index] += global.withdraw[global.index];
          obj.displayMsgWithdraw();
     }
+    // Deposit Formula
     public void deposit(){
         global.balance[global.index] += global.deposit[global.index];
         global.totaldeposit[global.index] += global.deposit[global.index];
